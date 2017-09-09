@@ -1,0 +1,4 @@
+Arduino communicates with the MAX3421E using the SPI bus (through the ICSP header).
+ This is on digital pins 10, 11, 12, and 13 on the Uno  
+and pins 10, 50, 51, and 52 on the Mega.
+ On both boards, pin 0 is used to select the MAX3421E. Pins 7, 8 and 9 are used for GPX, INT and RES pins.

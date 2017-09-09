@@ -1,8 +1,0 @@
-1- 7 digital IR sensor
-2- digital LDR sensor
-3- digital LASER light
-4- Ultrasonic sensor connection
-5- piezo sensor connection
-6- 2 l298n modules
-7- communication between master and slaves wired
-8- wireless communication with joystick
